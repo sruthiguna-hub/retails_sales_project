@@ -9,7 +9,6 @@ This project analyzes a real-world retail sales dataset and builds a Machine Lea
 - Build a Machine Learning model for sales prediction
 - Evaluate model performance
 ---
-## 🛠️ Technologies Used
 ## ✨ Features
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -18,6 +17,7 @@ This project analyzes a real-world retail sales dataset and builds a Machine Lea
 - Customer Sales Analysis
 - Sales Prediction using Linear Regression
 - Model Performance Evaluation
+## 🛠️ Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -62,6 +62,17 @@ This project analyzes a real-world retail sales dataset and builds a Machine Lea
 - Top 10 Customers
 - Actual vs Predicted Sales
 ---
+## 📷 Project Screenshots
+### Sales by Category
+![Category Sales](category_sales.png)
+### Sales by Region
+![Region Sales](region_sales.png)
+### Monthly Sales Trend
+![Monthly Sales](monthly_sales.png)
+### Top 10 Customers
+![Top Customers](top_customers.png)
+### Actual vs Predicted Sales
+![Prediction](actual_vs_predicted.png)
 ## 📁 Project Structure
 ```
 Retail_Sales_Project/
@@ -94,7 +105,6 @@ pip install -r requirements.txt
 python retail_project.py
 ```
 ---
-## 📊 Results
 ## 📊 Results
 - Analyzed 9,994 retail sales records.
 - Identified sales trends across categories, regions, and months.
